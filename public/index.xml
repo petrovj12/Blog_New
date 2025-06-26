@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Jovan&#39;s Blog</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Jovan&#39;s Blog</description>
+    <generator>Hugo -- 0.147.8</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 26 Jun 2025 22:53:41 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Welcome to my blog</title>
+      <link>http://localhost:1313/posts/first/</link>
+      <pubDate>Thu, 26 Jun 2025 22:53:41 +0200</pubDate>
+      <guid>http://localhost:1313/posts/first/</guid>
+      <description>&lt;p&gt;Starting blogging is so easy! I&amp;rsquo;ve already done it like a 100 times!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Random stuff</title>
+      <link>http://localhost:1313/random/</link>
+      <pubDate>Thu, 26 Jun 2025 22:41:18 +0200</pubDate>
+      <guid>http://localhost:1313/random/</guid>
+      <description>&lt;h2 id=&#34;reading-list&#34;&gt;Reading List&lt;/h2&gt;
+&lt;h3 id=&#34;mathematics&#34;&gt;Mathematics&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Elliptic Curves, Modular Forms and their L-Functions&lt;/em&gt;, Alvaro Lozano Robledo (currently reading)&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Primes of the form&lt;/em&gt; $x^2 + ny^2$, David Cox (except for the last part on complex multiplication)&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Matrix groups for undergraduates&lt;/em&gt;, Kristopher Tapp (except for the last chapter on roots)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;other&#34;&gt;Other&lt;/h3&gt;
+&lt;h4 id=&#34;fiction&#34;&gt;Fiction&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Der Mythos des Sisyphos&lt;/em&gt;, Albert Camus (currently reading)&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Der Tod des Iwan Iljitsch&lt;/em&gt;, Leo Tolstoi&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Der Glöckner von Notre-Dame&lt;/em&gt;, Victor Hugo&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Die Kreutzersonate&lt;/em&gt;, Leo Tolstoi&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Weiße Nächte&lt;/em&gt;, Fjodor M Dostojewski&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Schuld und Sühne&lt;/em&gt;, Fjodor M Dostojewski&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Sophies Welt&lt;/em&gt;, Jostein Gaarder&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;non-fiction&#34;&gt;Non-fiction&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;The Problems of Philosophy&lt;/em&gt;, Bertrand Russel&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;The Spartans&lt;/em&gt;, Paul Carteledge&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>

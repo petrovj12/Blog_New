@@ -1,0 +1,42 @@
+baseURL: https://jovanpetrov.xyz/
+languageCode: en-us
+title: Jovan's Blog
+theme: PaperMod
+defaultTheme: dark
+enableEmoji: true
+
+menu:
+  main:
+    - identifier: categories
+      name: Categories 
+      url: /categories/
+      weight: 10
+    - identifier: tags
+      name: Tags 
+      url: /tags/
+      weight: 20
+    - name: Random stuff
+      url: /random/
+      weight: 30
+    
+
+params:
+  homeInfoParams:
+    Title: "Hi there :wave:"
+    Content: I am a pursuing a Bachelor's Degree in mathematics and want to share things I find interesting in my studies
+  math: true
+
+markup:
+  goldmark:
+    extensions:
+      passthrough:
+        delimiters:
+          block:
+          - - \[
+            - \]
+          - - $$
+            - $$
+          inline:
+          - - $
+            - $
+        enable: true
