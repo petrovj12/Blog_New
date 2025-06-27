@@ -23,7 +23,7 @@ menu:
 params:
   homeInfoParams:
     Title: "Hi there :wave:"
-    Content: I am a pursuing a Bachelor's Degree in mathematics and want to share things I find interesting in my studies
+    Content: I am a pursuing a bachelor's degree in mathematics and want to share things I find interesting in my studies. My main interests lie in algebra and number theory. Apart from that, I like music ("classical" piano), biking, chess and as of recently Go (the board game).
   math: true
 
 markup:

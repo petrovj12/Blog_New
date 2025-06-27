@@ -18,7 +18,7 @@
     <item>
       <title>Random stuff</title>
       <link>http://localhost:1313/random/</link>
-      <pubDate>Thu, 26 Jun 2025 22:41:18 +0200</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/random/</guid>
       <description>&lt;h2 id=&#34;reading-list&#34;&gt;Reading List&lt;/h2&gt;
 &lt;h3 id=&#34;mathematics&#34;&gt;Mathematics&lt;/h3&gt;
@@ -41,7 +41,7 @@
 &lt;h4 id=&#34;non-fiction&#34;&gt;Non-fiction&lt;/h4&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;em&gt;The Problems of Philosophy&lt;/em&gt;, Bertrand Russel&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;The Spartans&lt;/em&gt;, Paul Carteledge&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;The Spartans&lt;/em&gt;, Paul Cartledge&lt;/li&gt;
 &lt;/ul&gt;</description>
     </item>
   </channel>

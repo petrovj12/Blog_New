@@ -1,5 +1,4 @@
 ---
-date: '2025-06-26T22:41:18+02:00'
 draft: false
 title: 'Random stuff'
 ---
@@ -28,4 +27,4 @@ title: 'Random stuff'
 #### Non-fiction
 
 - _The Problems of Philosophy_, Bertrand Russel
-- _The Spartans_, Paul Carteledge
+- _The Spartans_, Paul Cartledge
